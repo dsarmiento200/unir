@@ -1,0 +1,467 @@
+linea_origen;estacion_origen;linea_destino;estacion_destino;distancia
+A;Niquía;A;Bello;1341,801937
+A;Bello;A;Madera;1583,71928
+A;Madera;A;Acevedo;1798,041307
+A;Acevedo;A;Tricentenario;1264,219197
+A;Tricentenario;A;Caribe;1423,693274
+A;Caribe;A;Universidad;1060,194018
+A;Universidad;A;Hospital;669,2118498
+A;Hospital;A;Prado;842,4774047
+A;Prado;A;Parque Berrío;738,2832005
+A;Parque Berrío;A;San Antonio;400,1532123
+A;San Antonio;A;Alpujarra;509,967174
+A;Alpujarra;A;Exposiciones;533,2495538
+A;Exposiciones;A;Industriales;960,3385043
+A;Industriales;A;Poblado;1999,747545
+A;Poblado;A;Aguacatala;2060,589461
+A;Aguacatala;A;Ayurá;978,6480969
+A;Ayurá;A;Envigado;1758,711029
+A;Envigado;A;Itaguí;1696,030733
+A;Itaguí;A;Sabaneta;1186,992609
+A;Sabaneta;A;La Estrella;1244,602747
+A;San Antonio;B;Cisneros;637,0382175
+B;Cisneros;B;Suramericana;965,4128938
+B;Suramericana;B;Estadio;589,4126702
+B;Estadio;B;Floresta;1206,38009
+B;Floresta;B;Santa Lucia;667,7836189
+B;Santa Lucia;B;San Javier;1107,008126
+A;Niquía;A;Madera;2925,521216
+A;Niquía;A;Acevedo;4723,562523
+A;Niquía;A;Tricentenario;5987,781721
+A;Niquía;A;Caribe;7411,474995
+A;Niquía;A;Universidad;8471,669013
+A;Niquía;A;Hospital;9140,880862
+A;Niquía;A;Prado;9983,358267
+A;Niquía;A;Parque Berrío;10721,64147
+A;Niquía;A;San Antonio;11121,79468
+A;Niquía;A;Alpujarra;11631,76185
+A;Niquía;A;Exposiciones;12165,01141
+A;Niquía;A;Industriales;13125,34991
+A;Niquía;A;Poblado;15125,09746
+A;Niquía;A;Aguacatala;17185,68692
+A;Niquía;A;Ayurá;18164,33501
+A;Niquía;A;Envigado;19923,04604
+A;Niquía;A;Itaguí;21619,07678
+A;Niquía;A;Sabaneta;22806,06939
+A;Niquía;A;La Estrella;24050,67213
+A;Bello;A;Acevedo;3381,760587
+A;Bello;A;Tricentenario;4645,979784
+A;Bello;A;Caribe;6069,673058
+A;Bello;A;Universidad;7129,867076
+A;Bello;A;Hospital;7799,078926
+A;Bello;A;Prado;8641,556331
+A;Bello;A;Parque Berrío;9379,839531
+A;Bello;A;San Antonio;9779,992743
+A;Bello;A;Alpujarra;10289,95992
+A;Bello;A;Exposiciones;10823,20947
+A;Bello;A;Industriales;11783,54798
+A;Bello;A;Poblado;13783,29552
+A;Bello;A;Aguacatala;15843,88498
+A;Bello;A;Ayurá;16822,53308
+A;Bello;A;Envigado;18581,24411
+A;Bello;A;Itaguí;20277,27484
+A;Bello;A;Sabaneta;21464,26745
+A;Madera;A;Tricentenario;3062,260505
+A;Madera;A;Caribe;4485,953779
+A;Madera;A;Universidad;5546,147797
+A;Madera;A;Hospital;6215,359646
+A;Madera;A;Prado;7057,837051
+A;Madera;A;Parque Berrío;7796,120252
+A;Madera;A;San Antonio;8196,273464
+A;Madera;A;Alpujarra;8706,240638
+A;Madera;A;Exposiciones;9239,490192
+A;Madera;A;Industriales;10199,8287
+A;Madera;A;Poblado;12199,57624
+A;Madera;A;Aguacatala;14260,1657
+A;Madera;A;Ayurá;15238,8138
+A;Madera;A;Envigado;16997,52483
+A;Madera;A;Itaguí;18693,55556
+A;Madera;A;Sabaneta;19880,54817
+A;Madera;A;La Estrella;21125,15092
+A;Acevedo;A;Caribe;2687,912472
+A;Acevedo;A;Universidad;4111,605746
+A;Acevedo;A;Hospital;5171,799764
+A;Acevedo;A;Prado;5841,011613
+A;Acevedo;A;Parque Berrío;6683,489018
+A;Acevedo;A;San Antonio;7421,772219
+A;Acevedo;A;Alpujarra;7821,925431
+A;Acevedo;A;Exposiciones;8331,892605
+A;Acevedo;A;Industriales;8865,142159
+A;Acevedo;A;Poblado;9825,480663
+A;Acevedo;A;Aguacatala;11825,22821
+A;Acevedo;A;Ayurá;13885,81767
+A;Acevedo;A;Envigado;14864,46577
+A;Acevedo;A;Itaguí;16623,17679
+A;Acevedo;A;Sabaneta;18319,20753
+A;Acevedo;A;La Estrella;19506,20014
+A;Tricentenario;A;Universidad;2483,887292
+A;Tricentenario;A;Hospital;3153,099142
+A;Tricentenario;A;Prado;3995,576547
+A;Tricentenario;A;Parque Berrío;4733,859747
+A;Tricentenario;A;San Antonio;5134,012959
+A;Tricentenario;A;Alpujarra;5643,980133
+A;Tricentenario;A;Exposiciones;6177,229687
+A;Tricentenario;A;Industriales;7137,568191
+A;Tricentenario;A;Poblado;9137,315736
+A;Tricentenario;A;Aguacatala;11197,9052
+A;Tricentenario;A;Ayurá;12176,55329
+A;Tricentenario;A;Envigado;13935,26432
+A;Tricentenario;A;Itaguí;15631,29506
+A;Tricentenario;A;Sabaneta;16818,28767
+A;Tricentenario;A;La Estrella;18062,89041
+A;Caribe;A;Hospital;1729,405868
+A;Caribe;A;Prado;2571,883272
+A;Caribe;A;Parque Berrío;3310,166473
+A;Caribe;A;San Antonio;3710,319685
+A;Caribe;A;Alpujarra;4220,286859
+A;Caribe;A;Exposiciones;4753,536413
+A;Caribe;A;Industriales;5713,874917
+A;Caribe;A;Poblado;7713,622462
+A;Caribe;A;Aguacatala;9774,211923
+A;Caribe;A;Ayurá;10752,86002
+A;Caribe;A;Envigado;12511,57105
+A;Caribe;A;Itaguí;14207,60178
+A;Caribe;A;Sabaneta;15394,59439
+A;Caribe;A;La Estrella;16639,19714
+A;Universidad;A;Prado;1511,689255
+A;Universidad;A;Parque Berrío;2249,972455
+A;Universidad;A;San Antonio;2650,125667
+A;Universidad;A;Alpujarra;3160,092841
+A;Universidad;A;Exposiciones;3693,342395
+A;Universidad;A;Industriales;4653,680899
+A;Universidad;A;Poblado;6653,428444
+A;Universidad;A;Aguacatala;8714,017905
+A;Universidad;A;Ayurá;9692,666002
+A;Universidad;A;Envigado;11451,37703
+A;Universidad;A;Itaguí;13147,40776
+A;Universidad;A;Sabaneta;14334,40037
+A;Universidad;A;La Estrella;15579,00312
+A;Hospital;A;Parque Berrío;1580,760605
+A;Hospital;A;San Antonio;1980,913817
+A;Hospital;A;Alpujarra;2490,880991
+A;Hospital;A;Exposiciones;3024,130545
+A;Hospital;A;Industriales;3984,46905
+A;Hospital;A;Poblado;5984,216594
+A;Hospital;A;Aguacatala;8044,806055
+A;Hospital;A;Ayurá;9023,454152
+A;Hospital;A;Envigado;10782,16518
+A;Hospital;A;Itaguí;12478,19591
+A;Hospital;A;Sabaneta;13665,18852
+A;Hospital;A;La Estrella;14909,79127
+A;Prado;A;San Antonio;1138,436413
+A;Prado;A;Alpujarra;1648,403587
+A;Prado;A;Exposiciones;2181,653141
+A;Prado;A;Industriales;3141,991645
+A;Prado;A;Poblado;5141,73919
+A;Prado;A;Aguacatala;7202,328651
+A;Prado;A;Ayurá;8180,976747
+A;Prado;A;Envigado;9939,687777
+A;Prado;A;Itaguí;11635,71851
+A;Prado;A;Sabaneta;12822,71112
+A;Prado;A;La Estrella;14067,31387
+A;Parque Berrío;A;Alpujarra;910,1203863
+A;Parque Berrío;A;Exposiciones;1443,36994
+A;Parque Berrío;A;Industriales;2403,708444
+A;Parque Berrío;A;Poblado;4403,455989
+A;Parque Berrío;A;Aguacatala;6464,04545
+A;Parque Berrío;A;Ayurá;7442,693547
+A;Parque Berrío;A;Envigado;9201,404576
+A;Parque Berrío;A;Itaguí;10897,43531
+A;Parque Berrío;A;Sabaneta;12084,42792
+A;Parque Berrío;A;La Estrella;13329,03067
+A;San Antonio;A;Exposiciones;1043,216728
+A;San Antonio;A;Industriales;2003,555232
+A;San Antonio;A;Poblado;4003,302777
+A;San Antonio;A;Aguacatala;6063,892238
+A;San Antonio;A;Ayurá;7042,540335
+A;San Antonio;A;Envigado;8801,251364
+A;San Antonio;A;Itaguí;10497,2821
+A;San Antonio;A;Sabaneta;11684,27471
+A;San Antonio;A;La Estrella;12928,87745
+A;Alpujarra;A;Industriales;1493,588058
+A;Alpujarra;A;Poblado;3493,335603
+A;Alpujarra;A;Aguacatala;5553,925064
+A;Alpujarra;A;Ayurá;6532,573161
+A;Alpujarra;A;Envigado;8291,28419
+A;Alpujarra;A;Itaguí;9987,314923
+A;Alpujarra;A;Sabaneta;11174,30753
+A;Alpujarra;A;La Estrella;12418,91028
+A;Exposiciones;A;Poblado;2960,086049
+A;Exposiciones;A;Aguacatala;5020,67551
+A;Exposiciones;A;Ayurá;5999,323607
+A;Exposiciones;A;Envigado;7758,034636
+A;Exposiciones;A;Itaguí;9454,065369
+A;Exposiciones;A;Sabaneta;10641,05798
+A;Exposiciones;A;La Estrella;11885,66073
+A;Industriales;A;Aguacatala;4060,337006
+A;Industriales;A;Ayurá;5038,985103
+A;Industriales;A;Envigado;6797,696132
+A;Industriales;A;Itaguí;8493,726865
+A;Industriales;A;Sabaneta;9680,719474
+A;Industriales;A;La Estrella;10925,32222
+A;Poblado;A;Ayurá;3039,237558
+A;Poblado;A;Envigado;4797,948587
+A;Poblado;A;Itaguí;6493,97932
+A;Poblado;A;Sabaneta;7680,971929
+A;Poblado;A;La Estrella;8925,574676
+A;Aguacatala;A;Envigado;2737,359126
+A;Aguacatala;A;Itaguí;4433,389859
+A;Aguacatala;A;Sabaneta;5620,382469
+A;Aguacatala;A;La Estrella;6864,985215
+A;Ayurá;A;Itaguí;3454,741762
+A;Ayurá;A;Sabaneta;4641,734372
+A;Ayurá;A;La Estrella;5886,337118
+A;Envigado;A;Sabaneta;2883,023342
+A;Envigado;A;La Estrella;4127,626089
+A;Itaguí;A;La Estrella;2431,595356
+A;San Antonio;B;Suramericana;1602,451111
+A;San Antonio;B;Estadio;2191,863782
+A;San Antonio;B;Floresta;3398,243871
+A;San Antonio;B;Santa Lucia;4066,02749
+A;San Antonio;B;San Javier;5173,035616
+B;Cisneros;B;Estadio;1554,825564
+B;Cisneros;B;Floresta;2761,205654
+B;Cisneros;B;Santa Lucia;3428,989272
+B;Cisneros;B;San Javier;4535,997399
+B;Suramericana;B;Floresta;1795,79276
+B;Suramericana;B;Santa Lucia;2463,576379
+B;Suramericana;B;San Javier;3570,584505
+B;Estadio;B;Santa Lucia;1874,163708
+B;Estadio;B;San Javier;2981,171835
+B;Floresta;B;San Javier;1774,791745
+A;Niquía;A;Niquía;0
+A;La Estrella;A;La Estrella;0
+A;Bello;A;Niquía;1341,801937
+A;Madera;A;Bello;1583,71928
+A;Acevedo;A;Madera;1798,041307
+A;Tricentenario;A;Acevedo;1264,219197
+A;Caribe;A;Tricentenario;1423,693274
+A;Universidad;A;Caribe;1060,194018
+A;Hospital;A;Universidad;669,2118498
+A;Prado;A;Hospital;842,4774047
+A;Parque Berrío;A;Prado;738,2832005
+A;San Antonio;A;Parque Berrío;400,1532123
+A;Alpujarra;A;San Antonio;509,967174
+A;Exposiciones;A;Alpujarra;533,2495538
+A;Industriales;A;Exposiciones;960,3385043
+A;Poblado;A;Industriales;1999,747545
+A;Aguacatala;A;Poblado;2060,589461
+A;Ayurá;A;Aguacatala;978,6480969
+A;Envigado;A;Ayurá;1758,711029
+A;Itaguí;A;Envigado;1696,030733
+A;Sabaneta;A;Itaguí;1186,992609
+A;La Estrella;A;Sabaneta;1244,602747
+A;Madera;A;Niquía;2925,521216
+A;Acevedo;A;Niquía;4723,562523
+A;Tricentenario;A;Niquía;5987,781721
+A;Caribe;A;Niquía;7411,474995
+A;Universidad;A;Niquía;8471,669013
+A;Hospital;A;Niquía;9140,880862
+A;Prado;A;Niquía;9983,358267
+A;Parque Berrío;A;Niquía;10721,64147
+A;San Antonio;A;Niquía;11121,79468
+A;Alpujarra;A;Niquía;11631,76185
+A;Exposiciones;A;Niquía;12165,01141
+A;Industriales;A;Niquía;13125,34991
+A;Poblado;A;Niquía;15125,09746
+A;Aguacatala;A;Niquía;17185,68692
+A;Ayurá;A;Niquía;18164,33501
+A;Envigado;A;Niquía;19923,04604
+A;Itaguí;A;Niquía;21619,07678
+A;Sabaneta;A;Niquía;22806,06939
+A;La Estrella;A;Niquía;24050,67213
+A;Acevedo;A;Bello;3381,760587
+A;Tricentenario;A;Bello;4645,979784
+A;Caribe;A;Bello;6069,673058
+A;Universidad;A;Bello;7129,867076
+A;Hospital;A;Bello;7799,078926
+A;Prado;A;Bello;8641,556331
+A;Parque Berrío;A;Bello;9379,839531
+A;San Antonio;A;Bello;9779,992743
+A;Alpujarra;A;Bello;10289,95992
+A;Exposiciones;A;Bello;10823,20947
+A;Industriales;A;Bello;11783,54798
+A;Poblado;A;Bello;13783,29552
+A;Aguacatala;A;Bello;15843,88498
+A;Ayurá;A;Bello;16822,53308
+A;Envigado;A;Bello;18581,24411
+A;Itaguí;A;Bello;20277,27484
+A;Sabaneta;A;Bello;21464,26745
+A;Tricentenario;A;Madera;3062,260505
+A;Caribe;A;Madera;4485,953779
+A;Universidad;A;Madera;5546,147797
+A;Hospital;A;Madera;6215,359646
+A;Prado;A;Madera;7057,837051
+A;Parque Berrío;A;Madera;7796,120252
+A;San Antonio;A;Madera;8196,273464
+A;Alpujarra;A;Madera;8706,240638
+A;Exposiciones;A;Madera;9239,490192
+A;Industriales;A;Madera;10199,8287
+A;Poblado;A;Madera;12199,57624
+A;Aguacatala;A;Madera;14260,1657
+A;Ayurá;A;Madera;15238,8138
+A;Envigado;A;Madera;16997,52483
+A;Itaguí;A;Madera;18693,55556
+A;Sabaneta;A;Madera;19880,54817
+A;La Estrella;A;Madera;21125,15092
+A;Caribe;A;Acevedo;2687,912472
+A;Universidad;A;Acevedo;4111,605746
+A;Hospital;A;Acevedo;5171,799764
+A;Prado;A;Acevedo;5841,011613
+A;Parque Berrío;A;Acevedo;6683,489018
+A;San Antonio;A;Acevedo;7421,772219
+A;Alpujarra;A;Acevedo;7821,925431
+A;Exposiciones;A;Acevedo;8331,892605
+A;Industriales;A;Acevedo;8865,142159
+A;Poblado;A;Acevedo;9825,480663
+A;Aguacatala;A;Acevedo;11825,22821
+A;Ayurá;A;Acevedo;13885,81767
+A;Envigado;A;Acevedo;14864,46577
+A;Itaguí;A;Acevedo;16623,17679
+A;Sabaneta;A;Acevedo;18319,20753
+A;La Estrella;A;Acevedo;19506,20014
+A;Universidad;A;Tricentenario;2483,887292
+A;Hospital;A;Tricentenario;3153,099142
+A;Prado;A;Tricentenario;3995,576547
+A;Parque Berrío;A;Tricentenario;4733,859747
+A;San Antonio;A;Tricentenario;5134,012959
+A;Alpujarra;A;Tricentenario;5643,980133
+A;Exposiciones;A;Tricentenario;6177,229687
+A;Industriales;A;Tricentenario;7137,568191
+A;Poblado;A;Tricentenario;9137,315736
+A;Aguacatala;A;Tricentenario;11197,9052
+A;Ayurá;A;Tricentenario;12176,55329
+A;Envigado;A;Tricentenario;13935,26432
+A;Itaguí;A;Tricentenario;15631,29506
+A;Sabaneta;A;Tricentenario;16818,28767
+A;La Estrella;A;Tricentenario;18062,89041
+A;Hospital;A;Caribe;1729,405868
+A;Prado;A;Caribe;2571,883272
+A;Parque Berrío;A;Caribe;3310,166473
+A;San Antonio;A;Caribe;3710,319685
+A;Alpujarra;A;Caribe;4220,286859
+A;Exposiciones;A;Caribe;4753,536413
+A;Industriales;A;Caribe;5713,874917
+A;Poblado;A;Caribe;7713,622462
+A;Aguacatala;A;Caribe;9774,211923
+A;Ayurá;A;Caribe;10752,86002
+A;Envigado;A;Caribe;12511,57105
+A;Itaguí;A;Caribe;14207,60178
+A;Sabaneta;A;Caribe;15394,59439
+A;La Estrella;A;Caribe;16639,19714
+A;Prado;A;Universidad;1511,689255
+A;Parque Berrío;A;Universidad;2249,972455
+A;San Antonio;A;Universidad;2650,125667
+A;Alpujarra;A;Universidad;3160,092841
+A;Exposiciones;A;Universidad;3693,342395
+A;Industriales;A;Universidad;4653,680899
+A;Poblado;A;Universidad;6653,428444
+A;Aguacatala;A;Universidad;8714,017905
+A;Ayurá;A;Universidad;9692,666002
+A;Envigado;A;Universidad;11451,37703
+A;Itaguí;A;Universidad;13147,40776
+A;Sabaneta;A;Universidad;14334,40037
+A;La Estrella;A;Universidad;15579,00312
+A;Parque Berrío;A;Hospital;1580,760605
+A;San Antonio;A;Hospital;1980,913817
+A;Alpujarra;A;Hospital;2490,880991
+A;Exposiciones;A;Hospital;3024,130545
+A;Industriales;A;Hospital;3984,46905
+A;Poblado;A;Hospital;5984,216594
+A;Aguacatala;A;Hospital;8044,806055
+A;Ayurá;A;Hospital;9023,454152
+A;Envigado;A;Hospital;10782,16518
+A;Itaguí;A;Hospital;12478,19591
+A;Sabaneta;A;Hospital;13665,18852
+A;La Estrella;A;Hospital;14909,79127
+A;San Antonio;A;Prado;1138,436413
+A;Alpujarra;A;Prado;1648,403587
+A;Exposiciones;A;Prado;2181,653141
+A;Industriales;A;Prado;3141,991645
+A;Poblado;A;Prado;5141,73919
+A;Aguacatala;A;Prado;7202,328651
+A;Ayurá;A;Prado;8180,976747
+A;Envigado;A;Prado;9939,687777
+A;Itaguí;A;Prado;11635,71851
+A;Sabaneta;A;Prado;12822,71112
+A;La Estrella;A;Prado;14067,31387
+A;Alpujarra;A;Parque Berrío;910,1203863
+A;Exposiciones;A;Parque Berrío;1443,36994
+A;Industriales;A;Parque Berrío;2403,708444
+A;Poblado;A;Parque Berrío;4403,455989
+A;Aguacatala;A;Parque Berrío;6464,04545
+A;Ayurá;A;Parque Berrío;7442,693547
+A;Envigado;A;Parque Berrío;9201,404576
+A;Itaguí;A;Parque Berrío;10897,43531
+A;Sabaneta;A;Parque Berrío;12084,42792
+A;La Estrella;A;Parque Berrío;13329,03067
+A;Exposiciones;A;San Antonio;1043,216728
+A;Industriales;A;San Antonio;2003,555232
+A;Poblado;A;San Antonio;4003,302777
+A;Aguacatala;A;San Antonio;6063,892238
+A;Ayurá;A;San Antonio;7042,540335
+A;Envigado;A;San Antonio;8801,251364
+A;Itaguí;A;San Antonio;10497,2821
+A;Sabaneta;A;San Antonio;11684,27471
+A;La Estrella;A;San Antonio;12928,87745
+A;Industriales;A;Alpujarra;1493,588058
+A;Poblado;A;Alpujarra;3493,335603
+A;Aguacatala;A;Alpujarra;5553,925064
+A;Ayurá;A;Alpujarra;6532,573161
+A;Envigado;A;Alpujarra;8291,28419
+A;Itaguí;A;Alpujarra;9987,314923
+A;Sabaneta;A;Alpujarra;11174,30753
+A;La Estrella;A;Alpujarra;12418,91028
+A;Poblado;A;Exposiciones;2960,086049
+A;Aguacatala;A;Exposiciones;5020,67551
+A;Ayurá;A;Exposiciones;5999,323607
+A;Envigado;A;Exposiciones;7758,034636
+A;Itaguí;A;Exposiciones;9454,065369
+A;Sabaneta;A;Exposiciones;10641,05798
+A;La Estrella;A;Exposiciones;11885,66073
+A;Aguacatala;A;Industriales;4060,337006
+A;Ayurá;A;Industriales;5038,985103
+A;Envigado;A;Industriales;6797,696132
+A;Itaguí;A;Industriales;8493,726865
+A;Sabaneta;A;Industriales;9680,719474
+A;La Estrella;A;Industriales;10925,32222
+A;Ayurá;A;Poblado;3039,237558
+A;Envigado;A;Poblado;4797,948587
+A;Itaguí;A;Poblado;6493,97932
+A;Sabaneta;A;Poblado;7680,971929
+A;La Estrella;A;Poblado;8925,574676
+A;Envigado;A;Aguacatala;2737,359126
+A;Itaguí;A;Aguacatala;4433,389859
+A;Sabaneta;A;Aguacatala;5620,382469
+A;La Estrella;A;Aguacatala;6864,985215
+A;Itaguí;A;Ayurá;3454,741762
+A;Sabaneta;A;Ayurá;4641,734372
+A;La Estrella;A;Ayurá;5886,337118
+A;Sabaneta;A;Envigado;2883,023342
+A;La Estrella;A;Envigado;4127,626089
+A;La Estrella;A;Itaguí;2431,595356
+A;Bello;A;La Estrella;22708,8702
+A;La Estrella;A;Bello;22708,8702
+A;San Antonio;A;San Antonio;0
+B;San Javier;B;San Javier;0
+B;Suramericana;B;Cisneros;965,4128938
+B;Estadio;B;Suramericana;589,4126702
+B;Floresta;B;Estadio;1206,38009
+B;Santa Lucia;B;Floresta;667,7836189
+B;San Javier;B;Santa Lucia;1107,008126
+B;Estadio;B;Cisneros;1554,825564
+B;Floresta;B;Cisneros;2761,205654
+B;Santa Lucia;B;Cisneros;3428,989272
+B;San Javier;B;Cisneros;4535,997399
+B;Floresta;B;Suramericana;1795,79276
+B;Santa Lucia;B;Suramericana;2463,576379
+B;San Javier;B;Suramericana;3570,584505
+B;Santa Lucia;B;Estadio;1874,163708
+B;San Javier;B;Estadio;2981,171835
+B;San Javier;B;Floresta;1774,791745
+B;Cisneros;A;San Antonio;637,0382175
+B;Suramericana;A;San Antonio;1602,451111
+B;Estadio;A;San Antonio;2191,863782
+B;Floresta;A;San Antonio;3398,243871
+B;Santa Lucia;A;San Antonio;4066,02749
+B;San Javier;A;San Antonio;5173,035616
